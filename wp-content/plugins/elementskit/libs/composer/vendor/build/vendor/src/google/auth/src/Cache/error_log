@@ -1,0 +1,32 @@
+[05-Jul-2024 22:09:04 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\InvalidArgumentException" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/InvalidArgumentException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/InvalidArgumentException.php on line 21
+[05-Jul-2024 22:11:07 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\CacheItemPoolInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/SysVCacheItemPool.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/SysVCacheItemPool.php on line 29
+[05-Jul-2024 22:17:14 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\CacheItemPoolInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/MemoryCacheItemPool.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/MemoryCacheItemPool.php on line 25
+[05-Jul-2024 22:18:17 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\CacheItemInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/Item.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/Item.php on line 24
+[09-Jul-2024 02:25:36 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\CacheItemPoolInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/MemoryCacheItemPool.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/MemoryCacheItemPool.php on line 25
+[10-Jul-2024 10:50:47 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\InvalidArgumentException" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/InvalidArgumentException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/InvalidArgumentException.php on line 21
+[10-Jul-2024 11:46:35 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\CacheItemInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/Item.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/Item.php on line 24
+[10-Jul-2024 21:24:43 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\CacheItemPoolInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/SysVCacheItemPool.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Cache/SysVCacheItemPool.php on line 29

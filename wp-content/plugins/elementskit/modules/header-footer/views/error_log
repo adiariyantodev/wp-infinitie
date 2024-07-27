@@ -1,0 +1,24 @@
+[03-Jul-2024 08:12:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-footer.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-footer.php on line 1
+[03-Jul-2024 08:15:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-header.php on line 2
+[03-Jul-2024 08:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_admin_url() in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/modal-editor.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/modal-editor.php on line 5
+[05-Jul-2024 12:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-header.php on line 2
+[05-Jul-2024 12:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-footer.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-footer.php on line 1
+[05-Jul-2024 12:42:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_admin_url() in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/modal-editor.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/header-footer/views/modal-editor.php on line 5

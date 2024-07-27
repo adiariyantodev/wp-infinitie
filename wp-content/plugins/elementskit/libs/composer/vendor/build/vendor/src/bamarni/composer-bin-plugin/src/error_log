@@ -1,0 +1,24 @@
+[05-Jul-2024 04:32:10 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Composer\Plugin\Capability\CommandProvider" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/CommandProvider.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/CommandProvider.php on line 6
+[09-Jul-2024 03:53:31 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Composer\Plugin\Capability\CommandProvider" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/CommandProvider.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/CommandProvider.php on line 6
+[10-Jul-2024 17:19:58 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Composer\Command\BaseCommand" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/BinCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/BinCommand.php on line 14
+[10-Jul-2024 18:05:58 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Composer\Plugin\PluginInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/Plugin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/Plugin.php on line 16
+[13-Jul-2024 06:24:07 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Composer\Command\BaseCommand" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/BinCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/BinCommand.php on line 14
+[13-Jul-2024 10:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Composer\Plugin\PluginInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/Plugin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/bamarni/composer-bin-plugin/src/Plugin.php on line 16

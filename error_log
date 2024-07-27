@@ -1,0 +1,50 @@
+[21-Jun-2024 11:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_detect_encoding() in /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-functions.php:426
+Stack trace:
+#0 /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-functions.php(625): WP_Optimize_Minify_Functions::get_css('https://infinit...', '/*! elementor -...', true)
+#1 /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-front-end.php(785): WP_Optimize_Minify_Functions::download_and_minify('https://infinit...', '', true, 'css', 'elementor-front...', '3.21.8')
+#2 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(324): WP_Optimize_Minify_Front_End->process_header_css('')
+#3 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/functions.wp-styles.php(57): do_action('wp_print_styles')
+#6 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(324): wp_print_styles(false)
+#7 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/general-template.php(3050): do_action('wp_head')
+#10 /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-header.php(11): wp_head()
+#11 /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/elementskit/modules/header-footer/theme-hooks/theme-support.php(25): require('/home/mofamedi/...')
+#12 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(326): ElementsKit\Modules\Header_Footer\Theme_Hooks\Theme_Support->get_header(NULL)
+#13 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#15 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/general-template.php(38): do_action('get_header', NULL, Array)
+#16 /home/mofamedi/infinitie.rafkreatif.com/wp-content/themes/hello-elementor/index.php(15): get_header()
+#17 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/template-loader.php(106): include('/home/mofamedi/...')
+#18 /home/mofamedi/infinitie.rafkreatif.com/wp-blog-header.php(19): require_once('/home/mofamedi/...')
+#19 /home/mofamedi/infinitie.rafkreatif.com/index.php(17): require('/home/mofamedi/...')
+#20 {main}
+  thrown in /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-functions.php on line 426
+[21-Jun-2024 11:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_detect_encoding() in /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-functions.php:426
+Stack trace:
+#0 /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-functions.php(625): WP_Optimize_Minify_Functions::get_css('https://infinit...', '/*! elementor -...', true)
+#1 /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-front-end.php(785): WP_Optimize_Minify_Functions::download_and_minify('https://infinit...', '', true, 'css', 'elementor-front...', '3.21.8')
+#2 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(324): WP_Optimize_Minify_Front_End->process_header_css('')
+#3 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/functions.wp-styles.php(57): do_action('wp_print_styles')
+#6 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(324): wp_print_styles(false)
+#7 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/general-template.php(3050): do_action('wp_head')
+#10 /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/elementskit/modules/header-footer/views/theme-support-header.php(11): wp_head()
+#11 /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/elementskit/modules/header-footer/theme-hooks/theme-support.php(25): require('/home/mofamedi/...')
+#12 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(326): ElementsKit\Modules\Header_Footer\Theme_Hooks\Theme_Support->get_header(NULL)
+#13 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#15 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/general-template.php(38): do_action('get_header', NULL, Array)
+#16 /home/mofamedi/infinitie.rafkreatif.com/wp-content/themes/hello-elementor/index.php(15): get_header()
+#17 /home/mofamedi/infinitie.rafkreatif.com/wp-includes/template-loader.php(106): include('/home/mofamedi/...')
+#18 /home/mofamedi/infinitie.rafkreatif.com/wp-blog-header.php(19): require_once('/home/mofamedi/...')
+#19 /home/mofamedi/infinitie.rafkreatif.com/index.php(17): require('/home/mofamedi/...')
+#20 {main}
+  thrown in /home/mofamedi/infinitie.rafkreatif.com/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-functions.php on line 426
+[21-Jun-2024 14:22:28 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[21-Jun-2024 14:22:28 UTC] Cron reschedule event error for hook: imagify_optimize_media_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"imagify_optimize_media_cron_interval","args":[],"interval":300}

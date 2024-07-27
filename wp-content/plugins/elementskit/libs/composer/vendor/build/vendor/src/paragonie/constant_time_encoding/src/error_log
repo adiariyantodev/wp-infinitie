@@ -1,0 +1,48 @@
+[04-Jul-2024 06:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\ParagonIE\ConstantTime\Base32" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base32Hex.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base32Hex.php on line 34
+[04-Jul-2024 06:31:43 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\ParagonIE\ConstantTime\EncoderInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base32.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base32.php on line 34
+[04-Jul-2024 06:49:35 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\ParagonIE\ConstantTime\EncoderInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Hex.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Hex.php on line 32
+[04-Jul-2024 06:49:36 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\ParagonIE\ConstantTime\Base64" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64UrlSafe.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64UrlSafe.php on line 34
+[04-Jul-2024 06:54:12 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\ParagonIE\ConstantTime\EncoderInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64.php on line 34
+[04-Jul-2024 08:17:38 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\ParagonIE\ConstantTime\Base64" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64DotSlashOrdered.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64DotSlashOrdered.php on line 34
+[05-Jul-2024 02:47:09 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\ParagonIE\ConstantTime\Base64" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64DotSlash.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64DotSlash.php on line 34
+[06-Jul-2024 07:34:07 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\ParagonIE\ConstantTime\EncoderInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64.php on line 34
+[06-Jul-2024 19:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\ParagonIE\ConstantTime\Base64" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64UrlSafe.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64UrlSafe.php on line 34
+[07-Jul-2024 07:37:13 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\ParagonIE\ConstantTime\EncoderInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Hex.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Hex.php on line 32
+[10-Jul-2024 06:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\ParagonIE\ConstantTime\Base64" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64DotSlashOrdered.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64DotSlashOrdered.php on line 34
+[11-Jul-2024 00:21:59 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\ParagonIE\ConstantTime\Base64" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64DotSlash.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/constant_time_encoding/src/Base64DotSlash.php on line 34

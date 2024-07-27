@@ -1,0 +1,8 @@
+[03-Jul-2024 03:47:06 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/gallery/gallery-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/gallery/gallery-handler.php on line 5
+[05-Jul-2024 11:14:02 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/gallery/gallery-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/gallery/gallery-handler.php on line 5

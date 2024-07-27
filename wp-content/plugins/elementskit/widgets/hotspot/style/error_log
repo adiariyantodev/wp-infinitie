@@ -1,0 +1,16 @@
+[03-Jul-2024 08:38:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/hotspot/style/following_line_style.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/hotspot/style/following_line_style.php on line 1
+[03-Jul-2024 08:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/hotspot/style/tultip_style.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/hotspot/style/tultip_style.php on line 2
+[05-Jul-2024 12:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/hotspot/style/following_line_style.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/hotspot/style/following_line_style.php on line 1
+[05-Jul-2024 12:17:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/hotspot/style/tultip_style.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/hotspot/style/tultip_style.php on line 2

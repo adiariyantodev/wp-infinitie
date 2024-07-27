@@ -1,0 +1,2 @@
+[05-Jul-2024 06:18:10 UTC] PHP Fatal error:  Trait "ElementsKit\Traits\Singleton" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/export/export-screen.php on line 8
+[07-Jul-2024 12:48:17 UTC] PHP Fatal error:  Trait "ElementsKit\Traits\Singleton" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/export/export-screen.php on line 8

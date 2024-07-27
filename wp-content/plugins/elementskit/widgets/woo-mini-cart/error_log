@@ -1,0 +1,12 @@
+[03-Jul-2024 05:03:29 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-mini-cart/woo-mini-cart-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-mini-cart/woo-mini-cart-handler.php on line 5
+[05-Jul-2024 04:59:01 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-mini-cart/woo-mini-cart-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-mini-cart/woo-mini-cart-handler.php on line 5
+[07-Jul-2024 07:56:16 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-mini-cart/woo-mini-cart-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-mini-cart/woo-mini-cart-handler.php on line 5

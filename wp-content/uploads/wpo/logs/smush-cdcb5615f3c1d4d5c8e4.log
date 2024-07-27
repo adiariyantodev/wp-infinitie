@@ -1,0 +1,105 @@
+[2024-06-21 11:20:28 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-21 11:20:29 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-21 11:20:29 : DEBUG] - Lock option (updraft_lock_smush, wpin_options) was created in the database 
+[2024-06-21 11:20:29 : INFO] - Lock (updraft_lock_smush, wpin_options) acquired after initialising the database 
+[2024-06-21 11:20:29 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-06-21 11:20:29 : INFO] - Re_Smush_It_Task - Attachment ID : 78, Started on : June 21, 2024 11:20:29 
+[2024-06-21 11:20:29 : INFO] - File: Banner-Web-Contact-Us-1.png, Compression quality: 92 
+[2024-06-21 11:20:30 : INFO] - Backing up the original image - 2024/06/Banner-Web-Contact-Us-1-updraft-pre-smush-original.png 
+[2024-06-21 11:20:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 11:20:30 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/Banner-Web-Contact-Us-1.png.The file was compressed from 538.90 KB to 538.90 KB, saving 0 percent, using WP-Optimize 
+[2024-06-21 11:20:30 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-06-21 11:20:30 : INFO] - Lock option (updraft_lock_smush, wpin_options) released 
+[2024-06-21 11:20:30 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-21 11:20:30 : INFO] - Lock option (updraft_lock_smush, wpin_options) was deleted from the database 
+[2024-06-21 11:20:30 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-06-21 11:20:50 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-21 11:20:51 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-06-21 11:20:51 : DEBUG] - Lock option (updraft_lock_smush, wpin_options) was created in the database 
+[2024-06-21 11:20:51 : INFO] - Lock (updraft_lock_smush, wpin_options) acquired after initialising the database 
+[2024-06-21 11:20:51 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-06-21 11:20:51 : INFO] - Re_Smush_It_Task - Attachment ID : 154, Started on : June 21, 2024 11:20:50 
+[2024-06-21 11:20:51 : INFO] - File: BG-3.png, Compression quality: 92 
+[2024-06-21 11:20:51 : INFO] - Backing up the original image - 2024/06/BG-3-updraft-pre-smush-original.png 
+[2024-06-21 11:20:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 11:20:51 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/BG-3.png.The file was compressed from 26.07 KB to 26.07 KB, saving 0 percent, using WP-Optimize 
+[2024-06-21 11:20:51 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-06-21 11:20:51 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-06-21 11:20:51 : INFO] - Re_Smush_It_Task - Attachment ID : 656, Started on : June 21, 2024 11:20:51 
+[2024-06-21 11:20:51 : INFO] - File: OPE-2.jpg, Compression quality: 92 
+[2024-06-21 11:20:51 : INFO] - Backing up the original image - 2024/06/OPE-2-updraft-pre-smush-original.jpg 
+[2024-06-21 11:20:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 11:20:51 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/OPE-2.jpg.The file was compressed from 901.04 KB to 867.07 KB, saving 3.77 percent, using WP-Optimize 
+[2024-06-21 11:20:51 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-06-21 11:20:51 : INFO] - Lock option (updraft_lock_smush, wpin_options) released 
+[2024-06-21 11:20:51 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-06-21 11:20:51 : INFO] - Lock option (updraft_lock_smush, wpin_options) was deleted from the database 
+[2024-06-21 11:20:51 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-06-21 11:25:13 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-21 11:25:15 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-06-21 11:25:15 : INFO] - Re_Smush_It_Task - attachment ID : 531, started on : June 21, 2024 11:25:14 
+[2024-06-21 11:25:15 : INFO] - File: shutterstock_2298270791-022.png, Compression quality: 60 
+[2024-06-21 11:25:16 : INFO] - Backing up the original image - 2024/06/shutterstock_2298270791-022-updraft-pre-smush-original.png 
+[2024-06-21 11:25:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 11:25:16 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/shutterstock_2298270791-022.png.The file was compressed from 1.42 MB to 1.42 MB, saving 0 percent, using WP-Optimize 
+[2024-06-21 11:25:16 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-06-21 11:25:47 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-21 11:25:49 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-21 11:25:49 : DEBUG] - Lock option (updraft_lock_smush, wpin_options) was created in the database 
+[2024-06-21 11:25:49 : INFO] - Lock (updraft_lock_smush, wpin_options) acquired after initialising the database 
+[2024-06-21 11:25:49 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-06-21 11:25:49 : INFO] - Re_Smush_It_Task - Attachment ID : 655, Started on : June 21, 2024 11:25:48 
+[2024-06-21 11:25:49 : INFO] - File: OPE-1.jpg, Compression quality: 92 
+[2024-06-21 11:25:49 : INFO] - Backing up the original image - 2024/06/OPE-1-updraft-pre-smush-original.jpg 
+[2024-06-21 11:25:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 11:25:49 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/OPE-1.jpg.The file was compressed from 1.48 MB to 822.62 KB, saving 45.6 percent, using WP-Optimize 
+[2024-06-21 11:25:49 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-06-21 11:25:49 : INFO] - Lock option (updraft_lock_smush, wpin_options) released 
+[2024-06-21 11:25:49 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-21 11:25:49 : INFO] - Lock option (updraft_lock_smush, wpin_options) was deleted from the database 
+[2024-06-21 11:25:49 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-06-21 12:48:07 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-21 12:48:09 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-06-21 12:48:09 : INFO] - Re_Smush_It_Task - attachment ID : 454, started on : June 21, 2024 12:48:09 
+[2024-06-21 12:48:09 : INFO] - File: shutterstock_102286060-2.png, Compression quality: 70 
+[2024-06-21 12:48:10 : INFO] - Backing up the original image - 2024/06/shutterstock_102286060-2-updraft-pre-smush-original.png 
+[2024-06-21 12:48:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 12:48:10 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/shutterstock_102286060-2.png.The file was compressed from 1.18 MB to 1.18 MB, saving 0 percent, using WP-Optimize 
+[2024-06-21 12:48:10 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-06-21 12:48:23 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-21 12:48:24 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-06-21 12:48:24 : INFO] - Re_Smush_It_Task - attachment ID : 454, started on : June 21, 2024 12:48:24 
+[2024-06-21 12:48:24 : INFO] - File: shutterstock_102286060-2.png, Compression quality: 92 
+[2024-06-21 12:48:25 : INFO] - Backing up the original image - 2024/06/shutterstock_102286060-2-updraft-pre-smush-original.png 
+[2024-06-21 12:48:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 12:48:25 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/shutterstock_102286060-2.png.The file was compressed from 1.18 MB to 1.18 MB, saving 0 percent, using WP-Optimize 
+[2024-06-21 12:48:25 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-06-21 12:50:01 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-21 12:50:02 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2024-06-21 12:50:02 : DEBUG] - Lock option (updraft_lock_smush, wpin_options) was created in the database 
+[2024-06-21 12:50:02 : INFO] - Lock (updraft_lock_smush, wpin_options) acquired after initialising the database 
+[2024-06-21 12:50:02 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-06-21 12:50:02 : INFO] - Re_Smush_It_Task - Attachment ID : 523, Started on : June 21, 2024 12:50:02 
+[2024-06-21 12:50:02 : INFO] - File: GAMBAR-2.png, Compression quality: 92 
+[2024-06-21 12:50:03 : INFO] - Backing up the original image - 2024/06/GAMBAR-2-updraft-pre-smush-original.png 
+[2024-06-21 12:50:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 12:50:03 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/GAMBAR-2.png.The file was compressed from 1.24 MB to 1.24 MB, saving 0 percent, using WP-Optimize 
+[2024-06-21 12:50:03 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-06-21 12:50:03 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-06-21 12:50:03 : INFO] - Re_Smush_It_Task - Attachment ID : 527, Started on : June 21, 2024 12:50:02 
+[2024-06-21 12:50:03 : INFO] - File: GAMBAR-3.png, Compression quality: 92 
+[2024-06-21 12:50:04 : INFO] - Backing up the original image - 2024/06/GAMBAR-3-updraft-pre-smush-original.png 
+[2024-06-21 12:50:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 12:50:05 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/GAMBAR-3.png.The file was compressed from 1.18 MB to 1.18 MB, saving 0 percent, using WP-Optimize 
+[2024-06-21 12:50:05 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-06-21 12:50:05 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-06-21 12:50:06 : INFO] - Re_Smush_It_Task - Attachment ID : 528, Started on : June 21, 2024 12:50:02 
+[2024-06-21 12:50:06 : INFO] - File: GAMBAR-4.png, Compression quality: 92 
+[2024-06-21 12:50:07 : INFO] - Backing up the original image - 2024/06/GAMBAR-4-updraft-pre-smush-original.png 
+[2024-06-21 12:50:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-06-21 12:50:08 : INFO] - Successfully optimized the image - /home/mofamedi/infinitie.rafkreatif.com/wp-content/uploads/2024/06/GAMBAR-4.png.The file was compressed from 878.36 KB to 878.36 KB, saving 0 percent, using WP-Optimize 
+[2024-06-21 12:50:08 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-06-21 12:50:08 : INFO] - Lock option (updraft_lock_smush, wpin_options) released 
+[2024-06-21 12:50:08 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2024-06-21 12:50:08 : INFO] - Lock option (updraft_lock_smush, wpin_options) was deleted from the database 
+[2024-06-21 12:50:08 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 

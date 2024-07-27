@@ -1,0 +1,32 @@
+[05-Jul-2024 23:06:56 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Service\Resource" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsSheets.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsSheets.php on line 30
+[05-Jul-2024 23:08:57 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Service\Resource" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/Spreadsheets.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/Spreadsheets.php on line 32
+[05-Jul-2024 23:12:00 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Service\Resource" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsDeveloperMetadata.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsDeveloperMetadata.php on line 31
+[05-Jul-2024 23:47:00 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Service\Resource" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsValues.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsValues.php on line 44
+[08-Jul-2024 17:47:25 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Service\Resource" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsValues.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsValues.php on line 44
+[10-Jul-2024 01:14:21 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Service\Resource" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsSheets.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsSheets.php on line 30
+[10-Jul-2024 01:59:38 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Service\Resource" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsDeveloperMetadata.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/SpreadsheetsDeveloperMetadata.php on line 31
+[10-Jul-2024 02:44:40 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Service\Resource" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/Spreadsheets.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient-services/src/Sheets/Resource/Spreadsheets.php on line 32

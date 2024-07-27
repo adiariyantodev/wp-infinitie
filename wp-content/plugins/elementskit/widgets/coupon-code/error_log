@@ -1,0 +1,12 @@
+[03-Jul-2024 03:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/coupon-code/coupon-code-handler.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/coupon-code/coupon-code-handler.php on line 4
+[05-Jul-2024 03:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/coupon-code/coupon-code-handler.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/coupon-code/coupon-code-handler.php on line 4
+[09-Jul-2024 02:04:33 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/coupon-code/coupon-code-handler.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/coupon-code/coupon-code-handler.php on line 4

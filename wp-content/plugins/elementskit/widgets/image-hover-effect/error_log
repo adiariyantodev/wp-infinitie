@@ -1,0 +1,8 @@
+[03-Jul-2024 05:32:27 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/image-hover-effect/image-hover-effect-handler.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/image-hover-effect/image-hover-effect-handler.php on line 3
+[05-Jul-2024 07:10:53 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/image-hover-effect/image-hover-effect-handler.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/image-hover-effect/image-hover-effect-handler.php on line 3

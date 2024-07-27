@@ -1,0 +1,8 @@
+[03-Jul-2024 04:31:36 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/facebook-feed/facebook-feed-handler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/facebook-feed/facebook-feed-handler.php on line 7
+[05-Jul-2024 11:29:11 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/facebook-feed/facebook-feed-handler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/facebook-feed/facebook-feed-handler.php on line 7

@@ -1,0 +1,38 @@
+[03-Jul-2024 07:36:06 UTC] PHP Warning:  Undefined variable $card_classes in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php on line 2
+[03-Jul-2024 07:36:06 UTC] PHP Warning:  Undefined variable $ekit_review_card_top_right_logo in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php on line 4
+[03-Jul-2024 07:36:06 UTC] PHP Warning:  Undefined variable $thumbnail_badge in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php on line 20
+[03-Jul-2024 07:36:06 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php on line 22
+[03-Jul-2024 09:46:15 UTC] PHP Warning:  Undefined variable $page_Info in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/only-overviews.php on line 2
+[03-Jul-2024 09:46:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/only-overviews.php on line 2
+[03-Jul-2024 09:46:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/only-overviews.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/only-overviews.php on line 3
+[04-Jul-2024 03:20:03 UTC] PHP Warning:  Undefined variable $page_Info in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/overview-card.php on line 3
+[04-Jul-2024 03:20:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/overview-card.php on line 3
+[04-Jul-2024 03:20:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/overview-card.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/overview-card.php on line 4
+[05-Jul-2024 12:33:57 UTC] PHP Warning:  Undefined variable $card_classes in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php on line 2
+[05-Jul-2024 12:33:57 UTC] PHP Warning:  Undefined variable $ekit_review_card_top_right_logo in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php on line 4
+[05-Jul-2024 12:33:57 UTC] PHP Warning:  Undefined variable $thumbnail_badge in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php on line 20
+[05-Jul-2024 12:33:57 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/review-card.php on line 22
+[05-Jul-2024 13:29:12 UTC] PHP Warning:  Undefined variable $page_Info in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/only-overviews.php on line 2
+[05-Jul-2024 13:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/only-overviews.php on line 2
+[05-Jul-2024 13:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/only-overviews.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/only-overviews.php on line 3
+[06-Jul-2024 11:44:03 UTC] PHP Warning:  Undefined variable $page_Info in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/overview-card.php on line 3
+[06-Jul-2024 11:44:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/overview-card.php on line 3
+[06-Jul-2024 11:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/overview-card.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/yelp/markup/overview-card.php on line 4

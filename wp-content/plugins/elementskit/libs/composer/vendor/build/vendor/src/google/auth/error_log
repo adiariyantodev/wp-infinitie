@@ -1,0 +1,5 @@
+[10-Jul-2024 03:59:41 UTC] PHP Fatal error:  Uncaught TypeError: spl_autoload_register(): Argument #1 ($callback) must be a valid callback or null, function "oauth2client_php_autoload" not found or invalid function name in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/autoload.php:35
+Stack trace:
+#0 /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/autoload.php(35): spl_autoload_register('oauth2client_ph...')
+#1 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/autoload.php on line 35

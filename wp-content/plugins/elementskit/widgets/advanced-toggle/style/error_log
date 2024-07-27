@@ -1,0 +1,16 @@
+[03-Jul-2024 07:52:28 UTC] PHP Warning:  Undefined variable $ekit_toggle_items in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/nav-tab-style.php on line 7
+[03-Jul-2024 07:52:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/nav-tab-style.php on line 7
+[03-Jul-2024 07:52:28 UTC] PHP Warning:  Undefined variable $ekit_toggle_items in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/nav-tab-style.php on line 24
+[03-Jul-2024 07:52:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/nav-tab-style.php on line 24
+[03-Jul-2024 11:45:24 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/switch-style.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/switch-style.php on line 3
+[05-Jul-2024 12:22:10 UTC] PHP Warning:  Undefined variable $ekit_toggle_items in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/nav-tab-style.php on line 7
+[05-Jul-2024 12:22:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/nav-tab-style.php on line 7
+[05-Jul-2024 12:22:10 UTC] PHP Warning:  Undefined variable $ekit_toggle_items in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/nav-tab-style.php on line 24
+[05-Jul-2024 12:22:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/nav-tab-style.php on line 24
+[05-Jul-2024 18:56:22 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/switch-style.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/advanced-toggle/style/switch-style.php on line 3

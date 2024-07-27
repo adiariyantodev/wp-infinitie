@@ -1,0 +1,12 @@
+[05-Jul-2024 21:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\PHPUnit\Framework\TestCase" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/Test/LoggerInterfaceTest.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 14
+[05-Jul-2024 23:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Psr\Log\AbstractLogger" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/Test/TestLogger.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/Test/TestLogger.php on line 56
+[08-Jul-2024 20:18:33 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Psr\Log\AbstractLogger" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/Test/TestLogger.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/Test/TestLogger.php on line 56

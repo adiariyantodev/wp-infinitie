@@ -1,0 +1,8 @@
+[05-Jul-2024 14:14:58 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\AuthHandler\Guzzle6AuthHandler" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient/src/AuthHandler/Guzzle7AuthHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient/src/AuthHandler/Guzzle7AuthHandler.php on line 23
+[10-Jul-2024 17:06:49 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\AuthHandler\Guzzle6AuthHandler" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient/src/AuthHandler/Guzzle7AuthHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient/src/AuthHandler/Guzzle7AuthHandler.php on line 23

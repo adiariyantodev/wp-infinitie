@@ -1,0 +1,12 @@
+[05-Jul-2024 21:18:06 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Log\LoggerInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/AbstractLogger.php on line 12
+[05-Jul-2024 23:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Psr\Log\AbstractLogger" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/NullLogger.php on line 13
+[10-Jul-2024 05:59:29 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Psr\Log\AbstractLogger" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/log/Psr/Log/NullLogger.php on line 13

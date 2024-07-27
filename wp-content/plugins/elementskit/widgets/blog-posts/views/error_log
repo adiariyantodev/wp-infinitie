@@ -1,0 +1,8 @@
+[03-Jul-2024 08:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Elementor\the_permalink() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/blog-posts/views/main.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/blog-posts/views/main.php on line 10
+[05-Jul-2024 12:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Elementor\the_permalink() in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/blog-posts/views/main.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/blog-posts/views/main.php on line 10

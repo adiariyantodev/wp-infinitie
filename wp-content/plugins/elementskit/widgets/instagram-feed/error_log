@@ -1,0 +1,8 @@
+[03-Jul-2024 06:14:15 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/instagram-feed/instagram-feed-handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/instagram-feed/instagram-feed-handler.php on line 8
+[05-Jul-2024 09:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/instagram-feed/instagram-feed-handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/instagram-feed/instagram-feed-handler.php on line 8

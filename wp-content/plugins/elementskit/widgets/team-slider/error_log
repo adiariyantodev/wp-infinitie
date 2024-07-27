@@ -1,0 +1,8 @@
+[03-Jul-2024 08:53:25 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/team-slider/team-slider-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/team-slider/team-slider-handler.php on line 5
+[05-Jul-2024 15:57:19 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/team-slider/team-slider-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/team-slider/team-slider-handler.php on line 5

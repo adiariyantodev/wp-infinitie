@@ -1,0 +1,8 @@
+[03-Jul-2024 08:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit\Modules\Conditional_Content\Libs\plugin_dir_path() in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/control.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/control.php on line 7
+[05-Jul-2024 12:19:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit\Modules\Conditional_Content\Libs\plugin_dir_path() in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/control.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/control.php on line 7

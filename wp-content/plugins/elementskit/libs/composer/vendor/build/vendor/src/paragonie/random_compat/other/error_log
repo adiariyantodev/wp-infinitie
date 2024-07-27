@@ -1,0 +1,5 @@
+[05-Jul-2024 03:13:08 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: creating archive "/home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/other/build_phar.php:12
+Stack trace:
+#0 /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/other/build_phar.php(12): Phar->__construct('/home/infiniti/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/other/build_phar.php on line 12

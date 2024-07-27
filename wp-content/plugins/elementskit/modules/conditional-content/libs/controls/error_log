@@ -1,0 +1,80 @@
+[03-Jul-2024 09:25:09 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/user-role.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/user-role.php on line 5
+[03-Jul-2024 09:29:11 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/login-status.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/login-status.php on line 7
+[03-Jul-2024 09:31:12 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/time.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/time.php on line 8
+[03-Jul-2024 09:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/condition-relation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/condition-relation.php on line 6
+[03-Jul-2024 09:34:21 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/day.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/day.php on line 8
+[03-Jul-2024 09:44:13 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/all-conditions-list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/all-conditions-list.php on line 6
+[03-Jul-2024 09:48:16 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/condition-enable.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/condition-enable.php on line 6
+[03-Jul-2024 09:50:17 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/date.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/date.php on line 6
+[03-Jul-2024 09:52:17 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/operating-system.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/operating-system.php on line 5
+[03-Jul-2024 11:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/browser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/browser.php on line 7
+[05-Jul-2024 09:30:17 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/day.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/day.php on line 8
+[05-Jul-2024 09:45:01 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/operating-system.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/operating-system.php on line 5
+[05-Jul-2024 13:13:23 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/browser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/browser.php on line 7
+[05-Jul-2024 13:14:24 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/user-role.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/user-role.php on line 5
+[05-Jul-2024 13:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/condition-relation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/condition-relation.php on line 6
+[05-Jul-2024 13:17:46 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/time.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/time.php on line 8
+[05-Jul-2024 13:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/date.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/date.php on line 6
+[05-Jul-2024 13:27:25 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/all-conditions-list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/all-conditions-list.php on line 6
+[05-Jul-2024 13:32:10 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/login-status.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/login-status.php on line 7
+[08-Jul-2024 08:48:22 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit\Modules\Conditional_Content\Libs\Controls\Repeater_Control_Base" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/day.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/modules/conditional-content/libs/controls/day.php on line 8

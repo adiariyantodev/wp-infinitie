@@ -1,0 +1,8 @@
+[04-Jul-2024 09:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\CacheException" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/cache/src/InvalidArgumentException.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/cache/src/InvalidArgumentException.php on line 11
+[06-Jul-2024 11:51:05 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\Psr\Cache\CacheException" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/cache/src/InvalidArgumentException.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/psr/cache/src/InvalidArgumentException.php on line 11

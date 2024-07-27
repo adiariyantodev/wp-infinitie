@@ -1,0 +1,2 @@
+[05-Jul-2024 21:37:02 UTC] PHP Fatal error:  Trait "ElementskitVendor\Google\Auth\CacheTrait" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Middleware/ScopedAccessTokenMiddleware.php on line 35
+[09-Jul-2024 03:07:32 UTC] PHP Fatal error:  Trait "ElementskitVendor\Google\Auth\CacheTrait" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/auth/src/Middleware/ScopedAccessTokenMiddleware.php on line 35

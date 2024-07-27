@@ -1,0 +1,8 @@
+[10-Jul-2024 09:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Exception" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient/src/Service/Exception.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient/src/Service/Exception.php on line 21
+[12-Jul-2024 15:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "ElementskitVendor\Google\Exception" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient/src/Service/Exception.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/google/apiclient/src/Service/Exception.php on line 21

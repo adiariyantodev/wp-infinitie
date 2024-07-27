@@ -1,0 +1,12 @@
+[03-Jul-2024 04:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/twitter-feed/twitter-feed-handler.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/twitter-feed/twitter-feed-handler.php on line 6
+[05-Jul-2024 04:06:56 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/twitter-feed/twitter-feed-handler.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/twitter-feed/twitter-feed-handler.php on line 6
+[07-Jul-2024 18:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/twitter-feed/twitter-feed-handler.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/twitter-feed/twitter-feed-handler.php on line 6

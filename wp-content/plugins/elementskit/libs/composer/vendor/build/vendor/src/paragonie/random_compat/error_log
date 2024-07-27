@@ -1,0 +1,10 @@
+[04-Jul-2024 04:40:39 UTC] PHP Warning:  require_once(lib/byte_safe_strings.php): Failed to open stream: No such file or directory in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/psalm-autoload.php on line 5
+[04-Jul-2024 04:40:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/byte_safe_strings.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/psalm-autoload.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/psalm-autoload.php on line 5
+[06-Jul-2024 12:21:04 UTC] PHP Warning:  require_once(lib/byte_safe_strings.php): Failed to open stream: No such file or directory in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/psalm-autoload.php on line 5
+[06-Jul-2024 12:21:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/byte_safe_strings.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/psalm-autoload.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/paragonie/random_compat/psalm-autoload.php on line 5

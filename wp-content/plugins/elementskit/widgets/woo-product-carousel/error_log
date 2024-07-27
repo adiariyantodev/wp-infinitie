@@ -1,0 +1,8 @@
+[03-Jul-2024 08:22:23 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-product-carousel/woo-product-carousel-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-product-carousel/woo-product-carousel-handler.php on line 5
+[05-Jul-2024 11:39:57 UTC] PHP Fatal error:  Uncaught Error: Class "ElementsKit_Lite\Core\Handler_Widget" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-product-carousel/woo-product-carousel-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/widgets/woo-product-carousel/woo-product-carousel-handler.php on line 5

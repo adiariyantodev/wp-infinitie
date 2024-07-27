@@ -1,0 +1,8 @@
+[04-Jul-2024 16:42:51 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/guzzlehttp/guzzle/src/Handler/CurlFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 19
+[10-Jul-2024 05:47:39 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementskitVendor\GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/guzzlehttp/guzzle/src/Handler/CurlFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/infiniti/public_html/wp-content/plugins/elementskit/libs/composer/vendor/build/vendor/src/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 19
